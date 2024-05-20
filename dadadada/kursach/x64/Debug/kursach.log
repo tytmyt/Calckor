@@ -1,0 +1,165 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00D1' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00F2' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00E0' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00F1' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00F7' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00ED' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00E9' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00EB' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00B3' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00E7' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00E4' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(26,22): warning C4566: character represented by universal-character-name '\u00F5' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00CE' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00E1' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00F7' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00F1' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00EB' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00F2' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00E0' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00EF' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00EE' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00E4' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00E2' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00E3' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00B3' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00F0' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(37,33): warning C4566: character represented by universal-character-name '\u00EC' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(83,29): warning C4566: character represented by universal-character-name '\u00CC' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(83,29): warning C4566: character represented by universal-character-name '\u00E5' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(83,29): warning C4566: character represented by universal-character-name '\u00E4' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(83,29): warning C4566: character represented by universal-character-name '\u00B3' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(83,29): warning C4566: character represented by universal-character-name '\u00E0' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(83,29): warning C4566: character represented by universal-character-name '\u00ED' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00D1' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00F2' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00E0' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00ED' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00E4' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00F0' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00E5' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00E2' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00B3' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00F5' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00EB' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(84,30): warning C4566: character represented by universal-character-name '\u00FF' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(85,30): warning C4566: character represented by universal-character-name '\u00CC' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(85,30): warning C4566: character represented by universal-character-name '\u00EE' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(85,30): warning C4566: character represented by universal-character-name '\u00E4' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(85,30): warning C4566: character represented by universal-character-name '\u00E0' cannot be represented in the current code page (1251)
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\User\source\repos\dadadada\kursach\MyForm.h(206,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  kursach.vcxproj -> C:\Users\User\source\repos\dadadada\x64\Debug\kursach.exe
